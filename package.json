@@ -2,14 +2,13 @@
   "name": "hello-world",
   "version": "1.0.0",
   "description": "",
-  "homepage": "./",
+  "homepage": "https://mrlimax1.github.io/vk-mini-apps1/",
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 HTTPS=true react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
   },
   "keywords": [],
   "author": "",
